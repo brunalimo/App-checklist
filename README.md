@@ -32,13 +32,13 @@ O **App Checklist** é um aplicativo multiplataforma (iOS e Android) desenvolvid
 ## Estrutura do Banco de Dados (Firebase Firestore)
 ```json
 "equipamentos": {
-  "equipamento_id_123": {
+  "patrimonio_id_00000525": {
     "nome": "Notebook Dell",
     "status": "Funcionando",
     "ultima_verificacao": "2025-03-19",
     "responsavel": "Usuário X"
   },
-  "equipamento_id_456": {
+  "epatrimonio_id_000005299": {
     "nome": "Arduino Mega",
     "status": "Precisa de Manutenção"
   }
